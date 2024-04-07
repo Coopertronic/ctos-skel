@@ -2,7 +2,7 @@
 
 pkgname=ctos-skel
 _destname1="/etc"
-pkgver=1.r
+pkgver=1.r12.963dbb0
 pkgrel=1
 pkgdesc="This installs the skel folder in etc that is used to generate a new user."
 arch=('any')
